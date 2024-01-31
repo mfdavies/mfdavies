@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer in my fourth year of Honors Computer Science at the University of Alberta (Graduating in Spring 2024).<br><br> I hold particular interest in game development, as well as both the front and backend design of apps. This interest has grown with my experiences working on university-level group projects. To name a few, I was involved in the creation of an android app which interacted with a firebase database, as well as a react website that hooked into not only our backend, but the backends of others'.<br><br>Fun Fact: In my spare time, I enjoy both skiing and hiking in the mountains.<br><br>[Portfolio](https://mfdavies.github.io/portfolio/)
+I am a software developer in my fourth year of Honors Computer Science at the University of Alberta (Graduating in Spring 2024).<br><br> I hold particular interest backend development, but I also have experince in frontend development. This interest has grown with my experiences working on university-level group projects. To name a few, I was involved in the creation of an android app which interacted with a firebase database, as well as a react website that hooked into not only our backend, but the backends of others'.<br><br>Fun Fact: In my spare time, I enjoy both skiing and hiking in the mountains.<br><br>[Portfolio](https://mfdavies.github.io/portfolio/)
 
 
 ## 🌐 Socials:
